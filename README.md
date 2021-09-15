@@ -18,9 +18,9 @@ This project is implemented based on the framework of [Probabilistic-Backpropaga
 2. See model details in `SBDT_net\` .  Run model with `$ python SBDT_datasetname.py`
 
 ## Datasets & Baselines
-We offer three large size tensor dataset for test.
-Binary-data dataset: Anime at  `.\stream_nn_td_binary\data_binary\anime`
-Real-data dataset: Acc at  `.\stream_ss_td_real\data_real\acc` and Movilens1M at `.\stream_ss_td_real\data_real\movielens_1m` 
+We offer three large size tensor dataset for test. <br />
+Binary-data dataset: Anime at  `.\stream_nn_td_binary\data_binary\anime`<br />
+Real-data dataset: Acc at  `.\stream_ss_td_real\data_real\acc` and <br /> Movilens1M at `.\stream_ss_td_real\data_real\movielens_1m` 
 
 Check our paper for more datasets and baselines.
 
