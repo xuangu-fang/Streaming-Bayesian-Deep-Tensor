@@ -1,0 +1,5 @@
+
+ R = 8, mini_batch =256 
+avg of auc: 0.792866 , std of auc is 0
+ the exact value is [0.788866] mean(tau): 0, var(tau): 0
+

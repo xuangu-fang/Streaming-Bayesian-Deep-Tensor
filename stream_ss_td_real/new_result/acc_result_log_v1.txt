@@ -1,0 +1,10 @@
+ R = 8, mini_batch =128 
+avg of mse: 0.116652 , std of mse is 0
+ the exact value is [0.11665217] mean(tau): 2.3851, var(tau): 1.0165e-05
+ mean(tau):2.385099 
+
+ R = 8, mini_batch =512 
+avg of mse: 0.117964 , std of mse is 0
+ the exact value is [0.11796427] mean(tau): 2.3811, var(tau): 1.0073e-05
+ mean(tau):2.381133 
+
